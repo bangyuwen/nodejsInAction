@@ -1,0 +1,15 @@
+{
+  "name": "random_story",
+  "version": "1.0.0",
+  "description": "",
+  "main": "random_story.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "htmlparser": "^1.7.7",
+    "request": "^2.74.0"
+  }
+}
